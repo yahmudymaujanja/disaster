@@ -1,0 +1,46 @@
+.float-end{
+    width: 100px;
+    height: 60px;
+    margin-top: -109px;
+    margin-right: 29px;
+}
+h4{
+    text-align: center;
+    font-size: 44px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 102px;
+}
+.col-sm-3{
+    
+    width: 200px;
+    height: 300px;
+    margin-left: 90px;
+}
+.hemed{
+    width:90px;
+    height:100px;
+    margin-left: 40px;
+    border: 2px solid;
+}
+.h6{
+    text-align: center;
+    margin-right: 60px;
+}
+.topview{
+    width: 700px;
+    height: 300px;
+}
+H6{
+    background-color: darkgreen;
+    text-decoration: darkkhaki;
+}
+.btn-group-p5{
+    margin-right: 289px;
+    
+    font-style:initial;
+}
+.img{
+    height: 100px;
+    width: 100px;
+    border-radius: 10000%;
+}
